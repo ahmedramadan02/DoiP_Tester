@@ -1,0 +1,4 @@
+/home/ahmed/TheYoctoProject/APD-R1903/PlatformTester/build/CMakeFiles/rebuild_cache.dir
+/home/ahmed/TheYoctoProject/APD-R1903/PlatformTester/build/CMakeFiles/edit_cache.dir
+/home/ahmed/TheYoctoProject/APD-R1903/PlatformTester/build/CMakeFiles/platform_tester.dir
+/home/ahmed/TheYoctoProject/APD-R1903/PlatformTester/build/CMakeFiles/TestServer.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/platform_tester.dir/main.c.o CMakeFiles/platform_tester.dir/PlatformTester.c.o CMakeFiles/platform_tester.dir/UTest/UTest.c.o  -o platform_tester -lrt -lpthread 

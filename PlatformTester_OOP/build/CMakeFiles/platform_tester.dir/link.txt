@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/platform_tester.dir/main.cpp.o CMakeFiles/platform_tester.dir/PlatformLogger.cpp.o CMakeFiles/platform_tester.dir/PlatformTester.cpp.o CMakeFiles/platform_tester.dir/ApplicationManagement.cpp.o CMakeFiles/platform_tester.dir/UTest/UTest.cpp.o  -o platform_tester -lrt -lpthread 

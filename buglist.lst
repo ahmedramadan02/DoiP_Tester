@@ -1,0 +1,5 @@
+1. in Cpp tester if terminated after the the platform termination, it prints all the bytes in the received array
+Action: need to close the connection once the platform is terminated
+1.1 The termination in general via signals is not working fine, after adding ApplicationManagement.cpp 
+2. in GUI [SEND_RECEIVE_ANOTHER_THREAD] mode, it sends and receives only one message.
+Action: TBD

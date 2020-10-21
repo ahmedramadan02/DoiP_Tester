@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=APD Uds Platform Tester
+Exec=AppRun %F
+Icon=default
+Comment=No Comment
+Terminal=true
+Categories=Network;
